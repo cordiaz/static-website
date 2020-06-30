@@ -14,4 +14,7 @@
         }
     ]
 }
-https://docs.aws.amazon.com/AmazonS3/latest/user-guide/static-website-hosting.html
+-- delete --
+change example.com with your's bucket name
+source: https://docs.aws.amazon.com/AmazonS3/latest/user-guide/static-website-hosting.html
+-- delete --
